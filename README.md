@@ -35,3 +35,19 @@ https://forum.micropython.org/viewtopic.php?t=4940
 
 https://www.embeddedrelated.com/showarticle/455.php
 
+http://vlado.cs.dal.ca/pl/coroutines_in_C/coroutines.html 
+
+http://www.informit.com/articles/article.aspx?p=2213858
+
+https://www.italiancpp.org/2016/11/02/coroutines-internals/
+
+https://github.com/Nukesor/pueue
+
+
+
+
+
+
+
+
+
